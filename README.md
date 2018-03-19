@@ -2,4 +2,4 @@
 
 zmiany zm
 
-zmiany
+zmiany//fdvsv
